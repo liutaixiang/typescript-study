@@ -1,0 +1,24 @@
+{
+  "name": "typescript-study",
+  "description": "my study",
+  "main": "gulpfile.js",
+  "authors": [
+    "lang"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/liutaixiang/typescript-study",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^3.4.0"
+  }
+}
